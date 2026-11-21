@@ -1,7 +1,17 @@
-# Screenshots — TODO before submitting
+# Screenshots — DONE (2026-11-21)
 
-The three PNGs currently in `screenshots/` are PLACEHOLDERS (solid slate with a caption).
-They exist only so `main.ts` can run end to end locally. They must be replaced with real
+The three PNGs in `screenshots/` are now REAL captures of this dashboard, taken at
+1440x900 with a headless Chromium (board: no hash; detail: rank-1 row "Sentora Curator"
+clicked, panel scrolled into view; filtered: `#category=Dexs`, 21 of 198 rows).
+Sizes: 154 KB / 164 KB / 141 KB. `dossier.json` was rebuilt from these captures.
+The notes below are kept for reference in case a recapture is ever needed.
+
+---
+
+# Screenshots — how to capture (reference)
+
+The three PNGs previously in `screenshots/` were PLACEHOLDERS (solid slate with a caption).
+They existed only so `main.ts` could run end to end locally. They had to be replaced with real
 captures of this dashboard before any submission — the first screenshot is the entry's
 public cover image.
 
